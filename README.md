@@ -1,2 +1,3 @@
 # OOP-ES6
 Object Oriented Programming using Ecmascript 2015
+Create an OOP implementation by modelling a real-world scenario/problem, while taking advantage of inheritance, encapsulation, polymorphism and the other OOP concepts. Push this solution to GitHub.
