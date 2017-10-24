@@ -1,0 +1,28 @@
+{
+  "name": "oop-es6",
+  "version": "1.0.0",
+  "description": "Object Oriented Programming using Ecmascript 2015",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulenchy/OOP-ES6.git"
+  },
+  "keywords": [
+    "TDD",
+    "JAVACSRIPT"
+  ],
+  "author": "sulenchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sulenchy/OOP-ES6/issues"
+  },
+  "homepage": "https://github.com/sulenchy/OOP-ES6#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.9.0",
+    "mocha": "^4.0.1"
+  }
+}
